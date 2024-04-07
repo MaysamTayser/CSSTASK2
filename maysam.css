@@ -1,0 +1,37 @@
+
+ 
+ 
+ .product{
+    margin: 20px ;
+    border: 2px rgb(39, 39, 198) solid;
+    padding: 20px;
+    display: inline-block;
+    
+}
+.iphone{
+    display: inline-block;
+    width: 20%; 
+    margin: 20px;
+   border: 2px darkgray solid;
+   
+  
+}
+.iphone h3{
+    margin: 10px;
+}
+.dis{
+    color: darkgray;
+    width: 90%;
+    margin: 10px;
+
+    
+}
+.price{
+    color: green;
+    margin: 10px;
+}
+.iphone button{
+    background-color: blue;
+    color:white;
+    
+}
